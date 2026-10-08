@@ -22,6 +22,12 @@ audio:not([controls]) {
   display: none;
 }
 
+@media (max-width: 768px) {
+  * {
+    transform-style: flat !important;
+  }
+}
+
 [hidden], template {
   display: none;
 }
@@ -3908,6 +3914,7 @@ figcaption {
   border: 1px aQAASred;
   /* margin-bottom: 0; */
 }
+
 .text-field-3 {
   background-color: #0000;
   border: 1px #000;
@@ -4063,7 +4070,7 @@ figcaption {
   grid-row-gap: 2.5rem;
   flex-flow: column;
   align-self: stretch;
-  display: flex;  
+  display: flex;
 }
 
 .form-2 {
@@ -5067,7 +5074,7 @@ figcaption {
     flex: 1;
   }
 
- 
+
 
   .step._01, .step._02 {
     width: 100%;
@@ -6228,6 +6235,7 @@ figcaption {
   /* position: relative; */
   z-index: 3;
 }
+
 /* Center Wave CGI footer content */
 .subscribe {
   display: flex;
