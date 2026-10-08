@@ -16515,7 +16515,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         useEventTarget: !0,
                         id: '68e5cc28e8a32c72eb5c6a51|3880ea18-849c-f3bf-0399-a05605c81465'
@@ -16586,7 +16586,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         useEventTarget: 'CHILDREN',
                         selector: '.hero-name-project-wrap',
@@ -16602,7 +16602,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         selector: '.custum-cursor',
                         selectorGuids: ['58561baa-8d7a-165e-5289-4a2a6dabd139']
@@ -16710,7 +16710,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         useEventTarget: 'CHILDREN',
                         selector: '.name-project-wrap-animation',
@@ -16784,7 +16784,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         useEventTarget: 'CHILDREN',
                         selector: '.logo-brand-wrap',
@@ -16801,7 +16801,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         useEventTarget: 'CHILDREN',
                         selector: '.background-logo',
@@ -17027,7 +17027,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         useEventTarget: !0,
                         id: '68c12cf02f42471057396fa2|ee1c6d35-86be-511a-3398-7a0d06c46c4e'
@@ -17044,7 +17044,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         useEventTarget: !0,
                         id: '68c12cf02f42471057396fa2|ee1c6d35-86be-511a-3398-7a0d06c46c4e'
@@ -17107,7 +17107,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         useEventTarget: 'CHILDREN',
                         selector: '.logo-brand-wrap',
@@ -17124,7 +17124,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         useEventTarget: 'CHILDREN',
                         selector: '.background-logo',
@@ -17189,7 +17189,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         selector: '.partner-number-group',
                         selectorGuids: ['f04b8db2-50f9-220f-d594-21a2166b341f']
@@ -17266,7 +17266,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.single-service-layout._001',
@@ -17286,7 +17286,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.light-service._01',
@@ -17307,7 +17307,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.light-service._0',
@@ -17333,7 +17333,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.single-service-layout._001',
@@ -17353,7 +17353,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.single-service-layout._001',
@@ -17378,7 +17378,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.light-service.gray._02',
@@ -17400,7 +17400,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.light-service.gray._02',
@@ -17424,7 +17424,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.single-service-layout._002',
@@ -17444,7 +17444,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.light-service._0',
@@ -17470,7 +17470,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.single-service-layout._001',
@@ -17495,7 +17495,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.single-service-layout._001',
@@ -17515,7 +17515,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.single-service-layout._001',
@@ -17540,7 +17540,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.light-service.gray._02',
@@ -17562,7 +17562,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.light-service.gray._02',
@@ -17586,7 +17586,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.light-service._01',
@@ -17607,7 +17607,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.light-service._01',
@@ -17629,7 +17629,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.single-service-layout._002',
@@ -17654,7 +17654,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.single-service-layout._002',
@@ -17679,7 +17679,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.light-service._05',
@@ -17701,7 +17701,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.light-service.gray._06',
@@ -17723,7 +17723,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.light-service.gray._06',
@@ -17747,7 +17747,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.light-service._05',
@@ -17768,7 +17768,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.light-service._05',
@@ -17790,7 +17790,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.single-service-layout._002',
@@ -17810,7 +17810,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.single-service-layout._003',
@@ -17835,7 +17835,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.single-service-layout._002',
@@ -17860,7 +17860,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.light-service.gray._06',
@@ -17882,7 +17882,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.light-service.gray._06',
@@ -17906,7 +17906,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.light-service._05',
@@ -17927,7 +17927,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.single-service-layout._003',
@@ -17960,7 +17960,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         selector: '.size-image-project',
                         selectorGuids: ['8f5e89ac-8a09-4861-9ef8-7c79e4508bd9']
@@ -17976,7 +17976,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         selector: '.custum-cursor',
                         selectorGuids: ['58561baa-8d7a-165e-5289-4a2a6dabd139']
@@ -17996,7 +17996,7 @@
                     config: {
                       delay: 0,
                       easing: 'outQuad',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         selector: '.size-image-project',
                         selectorGuids: ['8f5e89ac-8a09-4861-9ef8-7c79e4508bd9']
@@ -18040,7 +18040,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         selector: '.custum-cursor',
                         selectorGuids: ['58561baa-8d7a-165e-5289-4a2a6dabd139']
@@ -18056,7 +18056,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         selector: '.size-image-project',
                         selectorGuids: ['8f5e89ac-8a09-4861-9ef8-7c79e4508bd9']
@@ -18090,7 +18090,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: !0,
                             id: '68e5cc28e8a32c72eb5c6a51|401f5fcf-53c7-c165-ea66-e8c3ca933a36'
@@ -18110,7 +18110,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: !0,
                             id: '68e5cc28e8a32c72eb5c6a51|401f5fcf-53c7-c165-ea66-e8c3ca933a36'
@@ -18130,7 +18130,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: !0,
                             id: '68e5cc28e8a32c72eb5c6a51|401f5fcf-53c7-c165-ea66-e8c3ca933a36'
@@ -18228,7 +18228,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         useEventTarget: 'CHILDREN',
                         selector: '.icon-faq.choose',
@@ -18285,7 +18285,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         selector: '.icon-faq.not-choose',
                         selectorGuids: [
@@ -18335,7 +18335,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         useEventTarget: 'CHILDREN',
                         selector: '.content-faq',
@@ -18353,7 +18353,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         useEventTarget: 'CHILDREN',
                         selector: '.content-faq',
@@ -18387,7 +18387,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         useEventTarget: 'CHILDREN',
                         selector: '.icon-faq.choose',
@@ -18408,7 +18408,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         useEventTarget: 'CHILDREN',
                         selector: '.content-faq',
@@ -18444,7 +18444,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         useEventTarget: 'CHILDREN',
                         selector: '.icon-faq.not-choose',
@@ -18522,7 +18522,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         useEventTarget: 'CHILDREN',
                         selector: '.icon-faq.choose',
@@ -18561,7 +18561,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         useEventTarget: 'CHILDREN',
                         selector: '.content-faq',
@@ -18579,7 +18579,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         useEventTarget: 'CHILDREN',
                         selector: '.icon-faq.not-choose',
@@ -18600,7 +18600,7 @@
                     config: {
                       delay: 250,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         useEventTarget: 'CHILDREN',
                         selector: '.content-faq',
@@ -18643,7 +18643,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         useEventTarget: 'CHILDREN',
                         selector: '.content-aw',
@@ -18727,7 +18727,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         useEventTarget: !0,
                         id: '68e5cc28e8a32c72eb5c6a51|6c4fe672-4219-1e29-e21b-63563ae2acb3'
@@ -18757,7 +18757,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         useEventTarget: 'CHILDREN',
                         selector: '.text-content-button',
@@ -18839,7 +18839,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         useEventTarget: 'CHILDREN',
                         selector: '.text-content-button-2',
@@ -18921,7 +18921,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: { id: 'a4a586a9-9669-a837-9643-4c10e4df4ebf' },
                       zValue: 0,
                       xUnit: 'DEG',
@@ -18989,7 +18989,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.single-blog._001',
@@ -19009,7 +19009,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.single-blog._001',
@@ -19039,7 +19039,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.single-blog._001',
@@ -19059,7 +19059,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.single-blog._001',
@@ -19089,7 +19089,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {},
                           xValue: 1,
                           yValue: 1,
@@ -19102,7 +19102,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.single-blog._001',
@@ -19122,7 +19122,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.single-blog._001',
@@ -19147,7 +19147,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {},
                           filters: [
                             {
@@ -19170,7 +19170,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {},
                           xValue: 1,
                           yValue: 1,
@@ -19183,7 +19183,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {},
                           filters: [
                             {
@@ -19201,7 +19201,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             useEventTarget: 'CHILDREN',
                             selector: '.single-blog._001',
@@ -19265,7 +19265,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         useEventTarget: 'CHILDREN',
                         selector: '.nav-text',
@@ -19447,7 +19447,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             id: '68e5cc28e8a32c72eb5c6a51|edd3c6a0-fc81-115a-5588-379b3e78cfd7'
                           },
@@ -19468,7 +19468,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             id: '68e5cc28e8a32c72eb5c6a51|edd3c6a0-fc81-115a-5588-379b3e78cfd7'
                           },
@@ -19496,7 +19496,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             id: '68e5cc28e8a32c72eb5c6a51|edd3c6a0-fc81-115a-5588-379b3e78cfd7'
                           },
@@ -19517,7 +19517,7 @@
                         config: {
                           delay: 0,
                           easing: '',
-                          duration: 500,
+                          duration: 100,
                           target: {
                             id: '68e5cc28e8a32c72eb5c6a51|edd3c6a0-fc81-115a-5588-379b3e78cfd7'
                           },
@@ -19610,7 +19610,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: { id: 'b20a7e23-f4f9-efcd-82b7-5687bce5a2c2' },
                       xValue: 0,
                       xUnit: '%',
@@ -20060,7 +20060,7 @@
                     config: {
                       delay: 0,
                       easing: '',
-                      duration: 500,
+                      duration: 100,
                       target: {
                         useEventTarget: 'CHILDREN',
                         selector: '.hero-name-project-wrap',
